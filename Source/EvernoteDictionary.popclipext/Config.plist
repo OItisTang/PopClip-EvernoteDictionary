@@ -38,16 +38,16 @@
 	<string>EvernoteDictionary</string>
 	<key>Required Software Version</key>
 	<integer>693</integer>
-    <key>Version</key>
-    <integer>1</integer>
-    <key>Credits</key>
-    <array>
+	<key>Version</key>
+	<integer>1</integer>
+	<key>Credits</key>
+	<array>
 		<dict>
-            <key>Name</key>
-            <string>Chenggang Tang</string>
-            <key>Link</key>
-            <string>http://OItisTang.tk</string>
-        </dict>
-    </array>
+			<key>Name</key>
+			<string>Chenggang Tang</string>
+			<key>Link</key>
+			<string>http://OItisTang.tk</string>
+		</dict>
+	</array>
 </dict>
 </plist>

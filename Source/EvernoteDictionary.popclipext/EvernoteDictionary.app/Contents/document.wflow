@@ -148,7 +148,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>source</key>
-					<string>on run {input, parameters}	set definition to input as string	(* first word of definition is the word to query *)	set queryWord to paragraph 1 of definition	set queryWord to trim(queryWord)	(* create note in Evernote *)	tell application id "com.evernote.Evernote"		activate		set theNote to create note with text definition		set title of theNote to queryWord		open note window with theNote		activate	end tell	return inputend runon trim(someText)	repeat until someText does not start with " "		set someText to text 2 thru -1 of someText	end repeat	repeat until someText does not end with " "		set someText to text 1 thru -2 of someText	end repeat	return someTextend trim</string>
+					<string>on run {input, parameters}		set definition to input as string		(* first word of definition is the word to query *)	set queryWord to paragraph 1 of definition	set queryWord to trim(queryWord)		(* create note in Evernote *)	tell application id "com.evernote.Evernote"		activate		set theNote to create note with text definition		set title of theNote to queryWord		open note window with theNote		activate	end tell		return inputend runon trim(someText)	repeat until someText does not start with " "		set someText to text 2 thru -1 of someText	end repeat		repeat until someText does not end with " "		set someText to text 1 thru -2 of someText	end repeat		return someTextend trim</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RunScript</string>
@@ -212,7 +212,7 @@ end run</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>3158662E-B325-4D45-8806-FC6C1D2F783F</key>
+		<key>EB21B285-01BD-4CCF-A89F-E68DC34B6E4C</key>
 		<dict>
 			<key>from</key>
 			<string>ED323A77-45C0-4392-A840-9D07B8F0B27F - ED323A77-45C0-4392-A840-9D07B8F0B27F</string>

@@ -1,1 +1,1 @@
-open -a EvernoteDictionary.app --args "$POPCLIP_TEXT"
+open -a "$PWD/EvernoteDictionary.app" --args "$POPCLIP_TEXT"
