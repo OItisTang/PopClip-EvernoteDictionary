@@ -26,7 +26,9 @@ Copy that modified app back.
 
 ## Inspired by
 
-This program is inspired by [PopClip-Evernote extension](http://pilotmoon.com/popclip/extensions/page/Evernote) and [Biscuit App](http://getbiscuit.com/).
+This program is inspired by [Biscuit App](http://getbiscuit.com/) and [PopClip-Evernote extension](http://pilotmoon.com/popclip/extensions/page/Evernote).
+
+I love Biscuit on my iPhone, I also wish to have a desktop version of Biscuit, so I made one :)
 
 ## License
 
