@@ -4,6 +4,8 @@ A PopClip extension that translates words and helps you to remember them forever
 
 ![EvernoteDictionary icon](https://raw.github.com/OItisTang/PopClip-EvernoteDictionary/master/Source/EvernoteDictionary.popclipext/EvernoteDictionary.png)
 
+Click [here](https://github.com/OItisTang/PopClip-EvernoteDictionary/blob/master/Download/EvernoteDictionary.popclipextz?raw=true) to download.
+
 ## Introduction
 
 You may be one of so much Evernote lovers just like me.  
